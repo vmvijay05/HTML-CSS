@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.overall {
+  text-align: justify;
+  height: 100%;
+  width: 100%;
+}
+
+.Parent {
+  width: 100%;
+  margin-bottom: 18px;
+  overflow:hidden;
+}
+
+.child1 {
+  text-align: center;
+
+  background-color: rgb(123, 218, 28);
+  width: 55%;
+  float: left;
+  margin-right: 5px;
+  height: 50%;
+  padding: 1%;
+}
+
+.child2 {
+  text-align: center;
+  background-color: rgb(123, 218, 28);
+  width: 40%;
+  float: right;
+  height: 50%;
+  padding: 1%;
+}
+
+.nav {
+  float: left;
+  background-color: rgb(123, 218, 28);
+  width: 20%;
+  margin-right: 7px;
+  padding-bottom: 799px;
+  height: 90%;
+}
+
+.section2 {
+  width: 79%;
+    float: right;
+    height: 100px;
+  }
+
+.art {
+  /* overflow: hidden; */
+  padding-bottom: 500px;
+  width: 100%;
+  background-color: rgb(123, 218, 28);
+  height: 100%;
+}
+
+.Footer {
+  padding-bottom: 120px;
+    background-color: rgb(123, 218, 28);
+    width: 100%;
+    height: 100%;
+    margin-top: 16px;
+}
+.nav-parent{
+  margin-bottom: 23px;
+}
