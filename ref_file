@@ -1,0 +1,33 @@
+Basic HTML Format:
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Testing</title>
+</head>
+<body>
+    <h1>Hello Vijay</h1>
+     
+ 
+<p>My first Website</p>
+ 
+ 
+</body>
+</html>
+
+
+How to link the css file in HTML: <link rel="stylesheet" href="mystyle.css">
+There are three ways of inserting a style sheet:
+
+External CSS: c	ss things is updated to style.css file. That is called as external css
+
+Internal CSS:
+<head>
+<style>
+<h1>{
+color: yellow;
+</h1>
+</style>
+</head>
+
+Inline CSS -> Directly in the HTML element <p>: <h1 style="color:red">Welcome</h1>
+
